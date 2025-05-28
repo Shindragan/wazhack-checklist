@@ -1,0 +1,357 @@
+amber
+amethyst
+amulet of dweomery
+amulet of ESP
+amulet of life saving
+amulet of magical breathing
+amulet of reflection
+amulet of restful sleep
+amulet of slow digestion
+amulet of strangulation
+amulet of unchanging
+Amulet of Zaw
+amulet versus poison
+apple
+athamé
+auger
+axe
+bag of holding
+baguette
+bastard sword
+battle axe
+battle bow
+black boots
+black dress
+black hood
+black robe
+black silk gloves
+bloomer loaf
+blue mushroom
+blue outfit
+blue portal stone
+blue robe
+boomerang
+boulder
+bow
+broadsword
+brown robe
+carrot
+Certus
+chest
+Cleaver
+cloak of displacement
+cloak of invisibility
+cloak of magic regeneration
+cloak of magic resistance
+cloak of protection
+cob loaf
+coin
+collar of jaunting
+collar of levitation
+collar of protection
+collar of unchanging
+collar of viciousness
+colourful egg
+composite bow
+cooked egg
+cooked innards
+cooked meat
+copper arrow
+cornuthaum
+cottage loaf
+crown
+dagger
+diamond
+dwarvish cloak
+dwarvish helm
+dwarvish iron shoes
+dwarvish mithril coat
+dwarvish shortsword
+egg
+egg goop
+elven boots
+elven broadsword
+elven cloak
+elven dagger
+elven mithril coat
+elven shortsword
+emerald
+engineer's cap
+Excalibur
+eye mask
+fancy purple robe
+feathered cap
+feathered hat
+fiery greatsword
+firestone
+frost stone
+gas stone
+gauntlets of dexterity
+gauntlets of fumbling
+gauntlets of power
+giant club
+gladius
+Gleipnir
+gnome king outfit
+gnome outfit
+goo
+Grayswandir
+greatsword
+green dragon scale
+green headband
+grey dragon scale
+grey outfit
+grey robe
+Grimtooth
+hacker outfit
+hand warmers
+harp
+harp of lullabies
+headscarf
+helmet
+helm of brilliance
+helm of madness
+helm of telepathy
+hide outfit
+innards
+iron arrow
+japanese robe
+jeweller's monocle
+jumping boots
+kabuto
+katana
+Katana of Muramasa
+kris knife
+large chest
+large shield
+leather bag
+leather tunic
+levitation boots
+lich's cape
+lock pick
+longbow
+longsword
+low boots
+lump of royal jelly
+lute
+lute of charming
+mace
+magic whistle
+massive axe
+meat
+midas bag
+Mjölnir
+morning star
+mummy wrapping
+oil lamp
+orange portal stone
+orcish dagger
+orcish helm
+orcish shield
+orcish shortsword
+ornate robe
+pair of black spectacles
+pear
+phoenix quill
+pickaxe
+pie
+piece of worthless blue glass
+piece of worthless clear glass
+piece of worthless green glass
+piece of worthless orange glass
+piece of worthless red glass
+piece of worthless violet glass
+pied cap
+pied tunic
+pipe
+pipe of charming
+potion of acid
+potion of blindness
+potion of booze
+potion of choking
+potion of concentration
+potion of confusion
+potion of enlightenment
+potion of extra healing
+potion of fireproofing
+potion of fruit juice
+potion of full healing
+potion of gain ability
+potion of gain level
+potion of hallucination
+potion of healing
+potion of ink
+potion of invisibility
+potion of levitation
+potion of ludicrous speed
+potion of mana
+potion of monster detection
+potion of object detection
+potion of oil
+potion of paralysis
+potion of polymorph
+potion of restore ability
+potion of see invisible
+potion of sickness
+potion of sleeping
+potion of speed
+potion of water
+potion of wine
+power stone
+purple  robe
+quill
+ragged outfit
+ragged robe
+recurve bow
+red dragon scale
+red hat
+red hot poker
+red mushroom
+red outfit
+ring loaf
+ring of adornment
+ring of fire resistance
+ring of gain constitution
+ring of gain strength
+ring of hunger
+ring of invisibility
+ring of levitation
+ring of magic regeneration
+ring of polymorph
+ring of polymorph control
+ring of regeneration
+ring of see invisible
+ring of teleport
+ring of teleport control
+ruby
+sabre
+sack
+sapphire
+scimitar
+scroll of blank paper
+scroll of charging
+scroll of conflict
+scroll of create monster
+scroll of destroy armour
+scroll of enchant armour
+scroll of enchant weapon
+scroll of fire
+scroll of identify
+scroll of invulnerability
+scroll of light
+scroll of magic mapping
+scroll of remove curse
+scroll of repair armour
+scroll of taming
+scroll of teleportation
+scutum
+set of troy scales
+shield of reflection
+shortsword
+shuriken
+sickle
+silk shoes
+silly-looking shield
+silver arrow
+silver dragon scale
+skeleton key
+small shield
+smock
+spear
+speed boots
+spellbook of absorb curse
+spellbook of belief
+spellbook of blank paper
+spellbook of clean wounds
+spellbook of cone of cold
+spellbook of create monster
+spellbook of cure sickness
+spellbook of darkness
+spellbook of drain life
+spellbook of finger of death
+spellbook of fireball
+spellbook of force bolt
+spellbook of haste self
+spellbook of healing
+spellbook of identify
+spellbook of jumping
+spellbook of knock
+spellbook of levitation
+spellbook of light
+spellbook of lightning
+spellbook of magic mapping
+spellbook of magic missile
+spellbook of polymorph
+spellbook of protection
+spellbook of psi bolt
+spellbook of raise the dead
+spellbook of remove curse
+spellbook of restore ability
+spellbook of sickness
+spellbook of sleep
+spellbook of teleport away
+spellbook of wizard lock
+spiked flail
+staff
+staff of darkness
+staff of death
+staff of life
+staff of light
+steel arrow
+Sting
+suit of banded mail
+suit of black studded leather
+suit of bronze splintmail
+suit of chainmail
+suit of crystal plate armour
+suit of dwarvish mithril plate
+suit of gold plate armour
+suit of green dragon-scale mail
+suit of grey dragon-scale mail
+suit of leather armour
+suit of orcish chainmail
+suit of orcish ringmail
+suit of plate armour
+suit of red dragon-scale mail
+suit of ringmail
+suit of scalemail
+suit of segmentata
+suit of silver dragon-scale mail
+suit of splintmail
+suit of studded leather
+Thyrsus
+tin whistle
+trap
+tsurugi
+Tsurugi of Muramasa
+tub of grease
+tub of lard
+turban
+veil
+Vorpal Blade
+wand of cancellation
+wand of cold
+wand of create monster
+wand of death
+wand of fire
+wand of lightning
+wand of magic missile
+wand of make invisible
+wand of nothing
+wand of polymorph
+wand of probing
+wand of striking
+wand of teleportation
+wand of wishing
+warhammer
+water walking boots
+wedge of cheese
+Werewindle
+white hood
+white robe
+wine cellar key
+wooden arrow
+wooden club
+wraith's cape
+Yamatono
+yoroi

@@ -1,0 +1,179 @@
+acid blob  
+aquator  
+baby spider monkey  
+baker  
+balrog  
+barbarian  
+bard  
+bardess  
+bat  
+battle lich  
+blue crystal  
+bread golem  
+brown mold  
+bugbear  
+cave spider  
+cave spider hatchling  
+cat  
+clear crystal  
+clothier  
+cobra  
+cobra hatchling  
+colossal blue crystal  
+colossal clear crystal  
+colossal green crystal  
+colossal orange crystal  
+colossal red crystal  
+colossal violet crystal  
+daitengu  
+disenchanter  
+djinn  
+dog  
+druid  
+druidess  
+dust vortex  
+dwarf  
+dwarf king  
+dwarf lord  
+energy vortex  
+fenrir  
+fire ant  
+fire elemental  
+fire giant  
+fire vortex  
+flaming sphere  
+floating eye  
+fog cloud  
+freezing sphere  
+friar  
+gargoyle  
+gas spore  
+garter snake  
+gelatinous chunk  
+gelatinous cube  
+gelatinous lump  
+ghost  
+giant ant  
+giant bat  
+giant rat  
+giant redback  
+giant skeleton  
+gnome  
+gnome king  
+gnomish digger  
+gnomish walker  
+gnomish woodcutter  
+goblin  
+gold golem  
+green crystal  
+green dragon  
+green dragon hatchling  
+green mold  
+grey dragon  
+grey dragon hatchling  
+hacker (waz)  
+hellhound  
+hellhound pup  
+hill giant  
+huge dragon skeleton  
+huge grey dragon  
+huge green dragon  
+huge rat  
+huge red dragon  
+huge silver dragon  
+huntress  
+huntsman  
+ice vortex  
+iron golem  
+jackal  
+killer bee  
+kitten  
+knight  
+kobold  
+kobold hatchling  
+kobold lord  
+kobold shaman  
+kobold zombie  
+large cat  
+large dog  
+large kobold  
+large spider monkey  
+leather golem  
+leprechaun  
+leprechaun king  
+lichen  
+lich  
+little dog  
+master lich  
+master mindflayer  
+mimic  
+mindflayer  
+mummy  
+ogre  
+ogre king  
+ogre lord  
+orange crystal  
+orc  
+orc captain  
+orc warrior  
+phoenix  
+pied piper  
+pixie  
+possessed weapon  
+python  
+python hatchling  
+quivering blob  
+queen bee  
+rabid rat  
+raven  
+red crystal  
+red dragon  
+red dragon hatchling  
+red mold  
+redback hatchling  
+rogue  
+roman archer  
+roman god  
+roman guard  
+roman legion  
+rothé  
+samurai  
+sewer rat  
+shocking sphere  
+shopkeeper  
+skeleton  
+skeleton hound  
+silver dragon  
+silver dragon hatchling  
+soldier ant  
+sorcerer  
+sorceress  
+spider monkey  
+stone golem  
+tengu  
+thief  
+troll  
+troll guard  
+valkyrie  
+vampire bat  
+vandal  
+violet crystal  
+violet fungus  
+water elemental  
+water nymph  
+web  
+werewolf  
+white witch  
+wicker man   
+winged gargoyle  
+winter wolf  
+winter wolf pup  
+wizard  
+wolf  
+wolf pup
+wood golem  
+wraith  
+warg  
+wasps  
+yellow mold  
+zombie  

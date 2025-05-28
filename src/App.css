@@ -1,0 +1,237 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2% 5% 0 2%;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+body, #root {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  font-size: 18.4px; /* Base font size increased by 15% */
+  word-break: break-word;
+  overflow-wrap: break-word;
+  white-space: normal;
+}
+
+h1 {  
+  font-size: 2.3rem;
+  text-align: center;
+  padding: 0.4rem;
+}
+
+ul {
+  padding-left: 0;
+  margin-left: 0;
+  list-style-position: inside;
+}
+
+li {
+  display: flex;
+  align-items: flex-start;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1.15rem;
+  line-height: 1.7;
+  width: 100%;
+}
+
+li input[type="checkbox"] {
+  margin-right: 0.7rem;
+  width: 1.5em;
+  height: 1.5em;
+  flex-shrink: 0;
+}
+
+li label {
+  cursor: pointer;
+  user-select: none;
+  flex-grow: 1;
+  display: inline-block;
+}
+
+label.new-item {
+  font-size: 1.3rem; /* Match the normal size */
+  font-family: Arial, sans-serif; /* smooth classic font */
+  font-style: italic;
+  font-weight: bold;
+  color: #f1112f;
+  vertical-align: middle; /* 🔥 Aligns better with checkbox */
+  line-height: 1.2; /* 🔥 Match line height for better centering */
+}
+
+
+.delete-button {    
+  background-color: red;
+  color: white;
+  padding: 0.4rem;
+  border: none;
+  cursor: pointer;
+  width: 1.7em;
+  height: 1.7em;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.delete-button.hover {
+  background-color: darkred;
+}
+
+.top-bar {
+  display: flex;
+  align-items: center;
+  gap: 1.15rem;
+}
+
+input[type="text"] {  
+  min-width: 2.3em;
+  font-size: 1.15rem;
+}
+
+.add-item-input,
+.delete-button {
+  display: none;
+}
+
+.app-container.editing .add-item-input,
+.app-container.editing .delete-button {
+  display: inline-block;
+}
+
+.edit-toggle-button {
+  background-color: green;
+  color: white;
+  padding: 0.4rem 0.4rem;
+  border: none;
+  cursor: pointer;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1.15rem;
+  width: auto;
+  height: auto;
+  align-self: flex-start;
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
+}
+
+.edit-toggle-button:hover {
+  background-color: darkgreen;
+}
+
+.counter-bar {
+  margin: 1.15rem 0;
+  font-weight: bold;
+  font-size: 1.27rem;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tab-bar {
+  display: flex;
+  gap: 1.15rem;
+  margin: 1.15rem 0;
+}
+
+.tab {
+  background-color: #333;
+  color: white;
+  padding: 0.7rem 1.4rem;
+  border: none;
+  cursor: pointer;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1.03rem;
+}
+
+.tab.active {
+  background-color: darkorange;
+}
+
+.filter-bar {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.filter-wrapper {
+  position: relative;
+  width: 100%;
+}
+
+.filter-input {
+  width: 100%;
+  padding: 10px 40px 10px 10px; /* Space on the right for the clear button */
+  font-size: 1.15rem;
+  font-family: 'Press Start 2P', cursive;
+  box-sizing: border-box;
+  height: 2.5rem; /* 🔥 Set a good consistent height */
+}
+
+.clear-filter-button {
+  position: absolute;
+  top: 50%;
+  right: 12px;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  font-size: 1.3rem;
+  cursor: pointer;
+  color: rgb(250, 3, 3);
+  padding: 0;
+  margin: 0;
+  height: 1.5rem;
+  width: 1.5rem;
+  line-height: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  appearance: none; /* Reset default button styles */
+  -webkit-appearance: none;
+}
+
+.status-filter-button {
+  margin-left: 1rem;
+  padding: 0.4rem 0.8rem;
+  font-size: 1.1rem;
+  font-family: 'Press Start 2P', cursive;
+  background-color: #444;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.status-filter-button:hover {
+  background-color: darkorange;
+}
+
+.bottom-buttons {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.scroll-top-button {
+  padding: 0.8rem 1.2rem;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1.3rem; /* Increased for emoji */
+  background-color: darkgreen;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 3.2rem; /* Match Export button height */
+  width: 3.2rem; /* Make it a nice square */
+  line-height: 1;
+}
+
+
+.scroll-top-button:hover {
+  background-color: green;
+}

@@ -1,0 +1,382 @@
+battle axe = Cleaver
+bladed bow = Certus
+bladed bow = Battle Bow
+black-handled dagger = Athamé
+broad short sword = Dwarvish Shortsword
+broad sword = Tsurugi of Muramasa
+broad sword = Tsurugi
+broad sword = Broadsword
+club = Wooden Club
+crude dagger = Grimtooth
+crude dagger = Orcish Dagger
+crude short sword = Orcish Shortsword
+curved bow = Recurve Bow
+curved sword = Werewindle
+curved sword = Grayswandir
+curved sword = Scimitar
+curved sword = Sabre
+dark staff = Staff of Darkness
+double-headed axe = Battle axe
+flaming two-handed sword = Fiery Greatsword
+gnarled staff = Staff of Death
+horned bow = Composite Bow
+huge club = Giant Club
+leafy staff = Staff of Life
+long sword = Excalibur
+long sword = Longsword
+odd-length sword = Bastard Sword
+odd-lengthed sword = Vorpal Blade
+oriental sword = Katana of Muramasa
+oriental sword = Katana
+pinecone staff = Thyrsus
+Roman sword = Gladius
+short bow = Bow
+spiked mace = Morning Star
+two-handed sword = Greatsword
+war hammer = Mjölnir
+war hammer = Warhammer
+white staff = Staff of Light
+wooden broad sword = Elven Broadsword
+wooden dagger = Elven Dagger
+wooden short sword = Elven Shortsword
+wooden staff = Staff
+asymmetrical dagger = Kris Knife
+Black cape = Lich's cape
+Black cape = Wraith's cape
+Black gloves = Hand warmers?
+Blue cape = Dwarvish cloak
+Combat boots = Jumping boots?
+Crude chain mail suit = Suit of orcish chainmail
+Crude ring mail suit = Suit of orcish ringmail
+Crested helm = Helm of brilliance?
+Dark boots = Black boots
+Etched helm = Helm of telepathy?
+Faded green boots = Elven boots
+Faded pall = Elven cloak
+Gold monocle = Jeweller’s monocle
+Horned helmet = Dwarvish helm
+Iron shoes = Dwarvish iron shoes
+Iron skullcap = Orcish helm
+Jungle boots = Levitation boots?
+Leather gloves = Gauntlets of dexterity?
+Light chain mail suit = Dwarvish mithril coat
+Light chain mail suit = Elven mithril coat
+Light plate armour suit = Suit of dwarvish mithril plate
+Metal gauntlets = Gauntlets of fumbling
+Mittens = Gauntlets of power?
+Mud boots = Speed boots?
+Opera cloak = Cloak of invisibility?
+Oriental robe = Japanese robe
+Ornamental cope = Cloak of magic regeneration?
+Plumed helm = Helm of madness?
+Polished silver shield = Shield of reflection
+Red cloak = Cloak of magic resistance?
+Red-eyed shield = Orcish shield
+Roman armour suit = Suit of segmentata
+Roman shield = Scutum
+Samurai helmet = Kabuto
+Samurai Suit = Yoroi
+Small wooden shield = Small shield
+Snow boots = Any of the 3 above?
+Soft black gloves = Black silk gloves
+Soft black shoes = Silk shoes
+Tartan cape = Cloak of protection?
+Tattered cape = Any of the ? capes?
+Templar cape = Any of the ? capes?
+Visored helm = Helmet?
+Walking shoes = Low boots
+Wizard hat = Cornuthaum
+
+**
+Credit: https://steamcommunity.com/sharedfiles/filedetails/?id=1938828442
+Tips
+Wands can be recharged with a scroll of charging or from a shock source e.g. wand of lightning;
+Using the wand for self probing is an effective way to identify the magical effects of equipping armour and jewelry.
+
+You can equip sacks and bags for your pets.
+ITS A BAD IDEA TO RUN DOWNSTAIRS!
+
+Levitation boots are super hands, move normally while encumbered, float out of reach of lots of enemies and even fight from the other side of the elevator shaft in the mines
+
+Use the portal stones to go from the dungeon back to your sanctuary which should be close to a shop.
+Enemies can follow you back through portals but they get stunned for a few seconds, useful for surprise attacks.
+
+Controlled teleportation is a nice way to scout ahead for enemies, do it if yo feel its dangerous.
+
+Use elemental stones as grenades to start fights against tough enemies.
+You can use a wand of cancellation to 1 zap-shot any elemental or vortex.
+A frozen enemy can be killed by a single zap of a wand of striking.
+A thrown potion of acid insta-kills iron golems (useful for early extra XP if you can polymorph)
+
+Potions of water thrown at dust and flame vortexes cancel them. Water also cancels balrogs, fire elementals and other normally dangerous enemies.
+Wand of cancellation cancels Vampire bats, turns potions into water, and scrolls into blank scrolls.
+
+You can click on some store's items in the background and pick them all up, they will count towards the achievement.
+If you dont want to buy, just sell them back, if you move away from the shop with then in your oiventory, the shopkeep will go hostile.
+
+The strange contraption gives a +7 enchant to an item when fully powered, safely.
+
+The wand of cancellation can create holy water from any blessed potion or blank scrolls from any scroll.
+You can use holy water to bless anything except scrolls.
+
+[Enemies killed by your mesmerized allies, other enemies (like gas spores), explode themselves (spheres, bees) OR by traps do not register for the coutner] 
+* You can kill exploding enemies by not piercing them (use drain life or counter element them)
+
+** If you cant kill those vortexes, why not use a scroll of taming on them? :)
+Once you deide to read a scroll, if you "cancel", the scroll will still be gone. :(
+
+
+350 / 162 
+
+? mked meat no cuenta, eggs no cuentan?
+meat/innards tampoc cuenta? confirmado
+
+ogre and leprechaun kings dead, crowns same as gnomes but he has gold plate armour
+
+throwing stars? dont count, hacker outfit, yes.
+me faltan 2 items?
+shopkeepers que venden articulos especializados son clases
+hay que matar a todos los shopkeepers menos al jeweler? magic shop owner cuenta como wizard y creo que el jeweler como gnomo
+Holy book del padre cuenta, leerlo puedes cambiar de belief
+Bacchus always drops the unique weapon: thyrsus (for achievement)
+eggs, meat, goos, innards, pies, chievement shields do not count for item counter
+Diff pet breeds dont count, only base species: cat, dog, monkey, wolf.
+USE THE WISHES OF THE DRAGON WISHING WAND TO GET LEGENDARY WEAPONS
+
+FOR BETTER USE OF PORTAL, USE THE INTERACT BUTTON FOR TRAVEL, NOT JUST WALK INTO THEM, WAKING INTO THEM WILL PORT YOU TO A RANDOM OTHER-COLOR PORTAL.
+
+Infinite money? Create Monster is awesome!
+Gold golems = gold coins
+Kobold shamans = wands, scrolls and spellbooks
+Leather golem = bag of holding
+Gnome = potions and wands
+Ogre/Dwarf Lord = Equipment
+Lich = Mana potions
+Wasps= Blank scrolls (rare)
+Rothe, Hellhound, Hill Giants = food
+
+Dont go into the caves without a light source, light magic, oil lamp or even dual-wield glowing wands.
+Legendary weapons are immutable, even unidentified, thats how you can tell (they are also worth 1000+ coins)
+
+IF YOU ARE BELOW 50% HP, DONT FUCK AROUND, RUN!
+DONT TOUCH THE STUPID GNOME TRAIN!
+Ìn a pinch and without teleport, try a scroll of taming or polymorph the thing, you might survive.
+You will notice white dots on enemies while aiming, try to aim your zap or arrow trayectory into those.
+The gnome tunnel to the king is almost always 4 floors down.
+Always try to get gnomes neutral, once neutral, they are perfect to train wands on.
+drrasssraa
+Midas bag works for 5000G
+bag of holding 1900?
+spellbook of identify = 2000? no
+Amulet of slow digestion/reflection/life saving =  1500 yes
+3 +2 bastard swords = 1500
+wand of cancel/scroll of enchant armor/weapon = 600
+helm of btrilliance!
+wand of wishing = 920 yup, scroll of charhing = 1600, yes
+ring of levitation = 900, fire res = 1200
+pots enlightment/fireproofing = 1200? not enlightment but yes fire 1257
+pot of gain level/ability = 1500, yup
+an altar at a church can detect a wand of cancelation
+
+Game cycle
+1)Get strong enough to get to the gnome king ASAP, levittion will make it easier.
+2)Get gemstones to kill tough enemies, gas stones, power stones, etc.
+3)Find a shopkeeper, kill him with gemstones, grab his equiment.
+4)Kill giant rats,grab wine, get gold, kill gnome king with gemstones.
+5)leave a portal at jeweler, find oil lamp, glowing wands or light spellbook/scrolls.
+6)go to caves, reach the strange contraption, leave portal (do not solve it yet)
+7)find enough blank scrolls/quill/ink to get either the robe/armor or your main weapon to +7
+8)solve the contraption, get your +13 gear
+10) Find shops to powerup, leave portals there for quick access.
+-->Absorb/Remove curse spell will give you lots of seling power/use
+-> find a forge/tailor, make power gear.
+-> find sanctuary to bless wine/heal/mana/enlightment pots, buff yourself with them.
+-> find a baker to make resistance pies (red mold/hellhound, brown mold/winter wolf, spiders/ants, hill giant, floating eye)
+-> try and get 25+AC and your weapons to +7 or more
+11) Go down to dragon, if you find teleport away spellbook+teleport control, it'll go fast, wish for them.
+12) Use invulnerability scroll near dragon, pummel him.
+13) use up your gold by wishing for items you'll need on your NEXT run (ever come true means theyll appear in the next run)
+
+Some classes have unique gear that you will need for the loot achievo, for example the thief's veil or the druidess green headband.
+-------------------
+340
+Very special items
+Samurai - Have to summon with blassed create monsters (spawn with 2 special items)
+Hacker - Summon as above, type in Waz (spawns with special items)
+Auger/axe from gnome machines or wish
+Engineer cap from gnome train engineer or wish
+wtaer walking boots - only wished, they count!
+suit of dwarwish mithril plate yes. 
+
+You can create a lot of rabid rats and the pied piper will come.
+Trap (Any) you need the trapmaking talent to make or grab a trap into your ivnentory.
+Gnomes have lots of daggers you can use to make traps with.
+-------------------
+Food:
+Pies last forever, bread doesnt.
+Baking a pie multiplies its calories, a meat pie is more than a mushrom pie, spend the 20 gold wisely.
+All pets can eat pies.
+Pies raise the chances of a food giving you special powers.
+
+Mushroom and Pies never rot (keep as emergency food).
+
+Cooked food (throw a fireball or a scroll of fire at a pile) are 1.8? times more calorific, you can cook meat and eggs but dont overdue it, multiple burns will still destroy it.
+Blessed bottles of holy wine add HP to your max health, only if you're at full health when it's consumed.
+Drinking a potion of HP or MP while your bar is full will give you extra MAX HP or MP.
+
+Chilled food last longer (use cold spell on dropped food).
+You can cook THEN chill it.
+
+In a starving pinch, start quaffing potions.
+
+Sometimes when you sell food to the shopkeeper you can buy them back fresh and they dont continue to rot while in the shop.
+
+[Cubic's Rube]
+Use a sickle to have a higher chance to find goos.
+Red Mold = Fire Resistance
+Brown Mold/Winter Wolf = Cold Resistance
+Bees/Soldier Ant/Violet fungus = Poison Resistance
+Floating Eye = Telepathy
+Red mushrooms and yellow mold cure hallucination.
+Apples cure sickness.
+Carrots cure blindness.
+Hill Giant innards may give STR
+Trolls resurrect if you dont take their innards.
+Master Lich innards increase MP.
+Winter wolf innards may give you cold resistance.
+Acid blob and gelatinous cube are bad, do not eat.
+Werewolf meat turns you (or a pet/ally) into a werewolf.
+
+If you find an amulet of magicl breathing keep it in case you choke on food by accident.
+**************
+Gear:
+Max stat is 25.
++3 Black spectacles = +1 INT p/e [eyes]
++3 feathered hat = +2 CHA p/e [head]
++3 Wizard Hat = +3 INT, +3 WIS? [head]
++3 Dex Gaunt = +3 DEX [hands]
++3 Power Gaunt = +3 STR [hands]
++3 Speed Boots = Haste Self [Feet]
++3 Pied Robes = +6 CHA [body]
++3 Smock/Ornate Robe = Increases speed and magic regeneration. [body]
++3 Cloak of displacement = 25% miss chance [cape] 
++3 Ring of Adornment/Constitution/Strength [finger]
+
+The speed boots stack with the speed from the robes.
+
+At higher levels, wish for blessed potions fo enlightment (if you need to cap WIS/INT)
+
+Pouring effects:
+a Healing potion on an item to repair.
+a Sickness potion on weapons/arrows to add poison.
+a Fireproof potions to make it unburnable (non-metal).
+a tub of grease/lard to make them rustproof (metal).
+a blessed potion of water (holy water) will bless any equipment but not scrolls.
+
+You can enchant an equipment to a +7 with scrolls but once it gets a red glow, its time to stop or it will explode.
+After it gets the red glow, you can stack another +7 if you use the strange contraption and a +1 on top if you forge/tailor at shops. I was able to get a +15 ornate robe this way.
+
+In dangerous areas always wield a teleportation wand in your left and wear an amulet of life saving.
+Encumberance will kill you, it slows your attacks and movement giving enemies mroe time to hurt you, you can cast fine though.
+
+When forging, the item will have the enchantment modifier it had before fusing but it wont show it.
+[Tested by creating a dagger of adornment with a -1 adornment ring, gave me -1CHA when wielded]
+
+You can forge/fuse a ring with a secondary weapon i.e. [bow+teleport control ring] and then wear the bow on your back and keep the ring's effect.
+-----------
+Achievements
+Easy Zookeeper: Get 2 or 3 pets, let them fight werewolves, they become werewolves, they summon wolves, repeat.
+-------------
+molds cuentan como el mismo
+kobold ombie != kobold?
+lichen no cuenta? gas spore?
+Ti kill "PC classes" you need to kill youself somehow (like shooting a deathwand at a reflective walker)
+sickles can "harvest" monster food more often.
+Dff kinds of Pies dont count, thankfully
+
+pet diff breeds dotn count but base species do, cat, dog.
+------------
+Rare enemies:
+You can get "class" kills by mirdering prisioners or aiming a killer wand zap at yourself commiting suicide as that class.
+You can WISH for monsters and they will come aid you, then you can proceed to kill them for it to count.
+Blessed scroll of create monster: Ability to choose 3 hostile monsters from a selection;
+Roman archers cant shoot if they holding onto a ladder, you can burn their bows away with fire.
+Spears are made out of wood too and they burn well.
+
+You get either the dwarf king or the ogre king per run, I think its random but maybe its tied to PC gender, idk.
+
+Pixes are great healer pets, summon them by dropping 20 blue mushrooms in a pile.
+The peid pier appears sometimes if a lot fo rabid rats appear at a drain.
+
+A gelatinous chunk happens when slicing a gelatinous cube, you need to kill it for counter.
+
+You can teleport/fireball shopkeepers (even inside their barred stores) to murder them.. for the achievement.
+
+http://wazhack.wikia.com/wiki/Polypiling
+(Credit: MasterMindHaxer)
+You can use polymorph to create golems, drop 3 items close together and zap em!
+Check the link to see which items work and which dont but generally:
+
+3 breads = bread golem.
+3 wood items = wicker man.
+3 metal items = iron golem.
+3 leather items = Leather Golem
+3 giant clubs = Stone Golem
+3 gold item = Gold Golem
+
+So, you need a certain amount of weight in the pile for it to work, that's where scales (bought from jeweler) comes handy.
+I think the required weight is 150lbs per golem, extra weight gets morphed into bread.
+
+A blessed wand of polymorph will make the golem an ally.
+Golems do not need to be fed "Pretty cool" but they cant be healded "Pretty lame".
+If you are polymorphed and "want out", getting to zero HP ends the effect.
+
+Drop 20 red mushrooms to summon leprachaun king; 20 blue to summon lightning shooting pixie pet.
+
+Feed a mesmerized creature to make it a permanent pet.
+
+Oil lamps with genies inside (Djinn) usually displays "The oil seems to last forever", rub for a Djinn, if lamp is blessed, it will grant you a wish.
+----------
+Talents:
+Gastronomy will help you get food from monsters to survive the first hour but after that is pretty useless, it does help you dientify fruit juice potions though, as they are the only oens that show up as 500 calories.
+
+Commerce 3: For example, an uncursed scroll of identify will always be the lowest priced scroll in the players' inventory (20 gold, while a blessed scroll of identifiy will show the value of 22 gold). Legendary weapons and armor, bag of holdings, and midas bags, will have a significantly increased price than their common counterparts. This also helps to sell unidentified items to the magic shop and buy them back only losing 5-10% of the cost or dont buy them back if youre not interested.
+(sold an unidentiefied scroll for 289, it was a taming scol, can buy it for 319)
+IT DOES NOT show you its true value if its enhaceent hasnt been shown (through identify or dweomency).
+
+Pets can take a minute or so to identify items given to them ad then they will drop them if cursed.
+if mobs die by other than you or pet, do they count? gnome ilsl leprechaun
+
+when you die, you can identify all your items, so dont drop anything to avoid losing count!
+You also get a summary of what you killed, some things you fight are not counted as enemies
+High intelligence gives you a better chance to identify items on pickup.
+You'll have a good time if you play with high WIS/INT and find a spellbook of identify or remove curse.
+
+The item must enter your inventory to count, so if your pet picks it up, it doesnt count until you take it from him.
+
+You could just ignore the list altogether, play until you need less than 10 items left to find and see if you already have the top 10 rarest items (see Rarest items section) and if you cant find the last items, start logging.
+
+So, here is how I recommend you go through this:
+Wait until you die to record items, dont drop items once picked up!
+Make your pet fetches everything to filter cursed items, try to not pick things yourself.
+Take items from your pet every new floor, when they enter your inventory, new items will be counted for the achievo, even if unidentified but you will be able to identify them on the game over summary, so dont drop them!
+I recommend you play with STR-based characters while you fill up most of your list so you can carry unidentified items till death.
+If you need to drop stuff, drop identified items first, like food or already listed items.
+If you need to drop a new item you discovered this run, make double sure its already on your list, same goes if you are going to use it, like tools or potions.
+
+
+Dipping a scroll into a fountain creates a scroll of blank paper!
+Dipping a potion into a fountain creates an uncursed bottle of water!
+There is a small chance to raise your stats by drinking a normal fountain but its more likely you'll get a negative effect.
+Drinking from a red fountain with max HP will increase your max HP.
+Drinking from a blue fountain with max MP will increase your max MP.
+
+Wishes:
+Dipping coins into the fountain will prompt the player for a wish. See the wish page for more details;
+Get 600 coins the wish for an Amulet of Dweomery, it will help you identify items.
+If your foutnain wish gets granted, sometimes when you log off and log back in the tiem will just drop from nothing infront of you, even if it said EVER gets granted.
+-------------
+List of 1 to 1 unidentified objects.
+Clear potion = Potion of plain water.
+Red-purple potion = Bottle of Wine
+Fancy purple robe from gnome king
