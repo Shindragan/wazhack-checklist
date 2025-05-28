@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/wazhack-checklist/sw.js', { scope: '/wazhack-checklist/' })})}
