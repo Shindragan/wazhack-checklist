@@ -41,8 +41,8 @@ const App = () => {
       console.log("📥 Loading from .txt files...");
       try {
         const [monstList, itemList] = await Promise.all([
-          loadTextFile('/assets/monsterlist.txt'),
-          loadTextFile('/assets/itemlist.txt'),
+          loadTextFile(`${import.meta.env.BASE_URL}assets/monsterlist.txt`),
+          loadTextFile(`${import.meta.env.BASE_URL}assets/itemlist.txt`),          
         ]);
   
         const newLists = {
